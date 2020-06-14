@@ -1,4 +1,4 @@
 def first_challenge
-   epic_tragedy = {family_name: []  }
-   instructors: ["Ian", "Johann", "Alex"],
+   epic_tragedy = {family_name: [Montague, Capulet]  }
+  
 end
