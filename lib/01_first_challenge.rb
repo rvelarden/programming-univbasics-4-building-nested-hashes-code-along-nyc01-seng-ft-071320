@@ -1,3 +1,3 @@
 def first_challenge
-   epic_tragedy = {family: }
+   epic_tragedy = {family: Montague}
 end
